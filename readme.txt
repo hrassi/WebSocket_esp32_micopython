@@ -1,4 +1,4 @@
-use socket protocol to contole led
+use open socket protocol websocket is used to contole led
 real time control
 2 ways for connection :
     
@@ -7,3 +7,5 @@ real time control
       
     2 as access point direct wifi u connect to it to control
       the led in real time
+
+u can use this protocol for real time monitoring , open data flow between server and client
